@@ -1,0 +1,63 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Soccer Quiz</string>
+
+    <string name="next">Next</string>
+    <string name="submit">Display Score</string>
+    <string name="reset">restart quiz</string>
+    <string name="exit">exit</string>
+
+    //Strings to be displayed in app
+    <string name="end">End of Test</string>
+
+    //Questions and options to be called up in app
+    <string name="q1"><xliff:g example="1" id="questionNumber">%d</xliff:g>. What is the purpose of the halfway line?</string>
+    <string name="q1_optionA">To separate the teams before kick off and show the area where the offside rule applies</string>
+    <string name="q1_optionB">To help the groundsman draw the centre circle in the correct place</string>
+    <string name="q1_optionC">To help shortsighted players</string>
+
+    <string name="q2"><xliff:g example="1" id="questionNumber">%d</xliff:g>. How far from the goal is the penalty spot?</string>
+    <string name="q2_optionA">12 feet</string>
+    <string name="q2_optionB">12 yards</string>
+    <string name="q2_optionC">22 yards</string>
+
+    <string name="q3"><xliff:g example="1" id="questionNumber">%d</xliff:g>. What is Europe\'s top club competition?</string>
+    <string name="q3_optionA">The UEFA Cup</string>
+    <string name="q3_optionB">The Champions League</string>
+    <string name="q3_optionC">The Eurovision song contest</string>
+
+    <string name="q4"><xliff:g example="1" id="questionNumber">%d</xliff:g>. Each team may have ______ players including a goalie.</string>
+    <string name="q4_optionA">22</string>
+    <string name="q4_optionB">10</string>
+    <string name="q4_optionC">11</string>
+
+    <string name="q5"><xliff:g example="1" id="questionNumber">%d</xliff:g>. If an offensive player is fouled in the box, the result is a _________ kick.</string>
+    <string name="q5_optionA">Corner</string>
+    <string name="q5_optionB">Penalty</string>
+    <string name="q5_optionC">Indirect</string>
+
+    <string name="q6"><xliff:g example="1" id="questionNumber">%d</xliff:g>. According to FIFA, a player that receives a _________ card is ejected from the game.</string>
+    <string name="q6_optionA">Yellow</string>
+    <string name="q6_optionB">Red</string>
+    <string name="q6_optionC">Black</string>
+
+    <string name="q7"><xliff:g example="1" id="questionNumber">%d</xliff:g>. What basic soccer skill is used when the ball goes out of bounds on the sideline?</string>
+    <string name="q7_optionA">Throw in</string>
+    <string name="q7_optionB">Bicycle Kick</string>
+    <string name="q7_optionC">One Time Pass</string>
+
+    <string name="q8"><xliff:g example="1" id="questionNumber">%d</xliff:g>. Which country has won the World Cup the most times?</string>
+    <string name="q8_optionA">Germany</string>
+    <string name="q8_optionB">Brazil</string>
+    <string name="q8_optionC">France</string>
+
+    <string name="q9"><xliff:g example="1" id="questionNumber">%d</xliff:g>. Which football team plays its home games at Wembley?</string>
+    <string name="q9_optionA">Scotland</string>
+    <string name="q9_optionB">Ireland</string>
+    <string name="q9_optionC">England</string>
+
+    <string name="q10"><xliff:g example="1" id="questionNumber">%d</xliff:g>. What is the name of the white dot right in the middle of a football pitch?</string>
+    <string name="q10_optionA">Centre Spot</string>
+    <string name="q10_optionB">Half Line Spot</string>
+    <string name="q10_optionC">Middle Spot</string>
+
+</resources>
